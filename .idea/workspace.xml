@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2742.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10871.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/BOJ10950.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +30,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/Seongjae/Desktop/Java/Algorithm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Seongjae/Desktop/Java/Algorithm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BOJ10950">
+}</component>
+  <component name="RunManager" selected="Application.BOJ10871">
     <configuration name="BOJ10718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Implementation.BOJ10718" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BOJ.Implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ10871" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ10871" />
         <item itemvalue="Application.BOJ10950" />
         <item itemvalue="Application.BOJ2742" />
         <item itemvalue="Application.BOJ2753" />
@@ -110,7 +124,8 @@
       <updated>1662042900199</updated>
       <workItem from="1662042901647" duration="1783000" />
       <workItem from="1662076645553" duration="598000" />
-      <workItem from="1662129941566" duration="1582000" />
+      <workItem from="1662129941566" duration="1816000" />
+      <workItem from="1662212905909" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
