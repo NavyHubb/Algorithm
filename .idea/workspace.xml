@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10952.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/BOJ10950.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/Seongjae/Desktop/Java/Algorithm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BOJ10871">
-    <configuration name="BOJ10718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Implementation.BOJ10718" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.Implementation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ10952">
     <configuration name="BOJ10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implementation.BOJ10871" />
       <module name="Algorithm" />
@@ -67,6 +53,19 @@
     </configuration>
     <configuration name="BOJ10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implementation.BOJ10950" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ10952" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ10952" />
         <item itemvalue="Application.BOJ10871" />
         <item itemvalue="Application.BOJ10950" />
         <item itemvalue="Application.BOJ2742" />
         <item itemvalue="Application.BOJ2753" />
-        <item itemvalue="Application.BOJ10718" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +124,8 @@
       <workItem from="1662042901647" duration="1783000" />
       <workItem from="1662076645553" duration="598000" />
       <workItem from="1662129941566" duration="1816000" />
-      <workItem from="1662212905909" duration="1697000" />
+      <workItem from="1662212905909" duration="1740000" />
+      <workItem from="1662298258130" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
