@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2577.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ10818">
+  <component name="RunManager" selected="Application.BOJ2562">
     <configuration name="BOJ10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implementation.BOJ10818" />
       <module name="Algorithm" />
@@ -99,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementation.BOJ1110" />
+    <configuration name="BOJ2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2562" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementation.BOJ14681" />
+    <configuration name="BOJ2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2577" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ2562" />
+        <item itemvalue="Application.BOJ2577" />
         <item itemvalue="Application.BOJ10818" />
         <item itemvalue="Application.BOJ10951" />
         <item itemvalue="Application.BOJ11021" />
-        <item itemvalue="Application.BOJ1110" />
-        <item itemvalue="Application.BOJ14681" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,9 @@
       <workItem from="1662561898255" duration="831000" />
       <workItem from="1662777878166" duration="1004000" />
       <workItem from="1662815874304" duration="2064000" />
-      <workItem from="1663166084471" duration="1164000" />
+      <workItem from="1663166084471" duration="2727000" />
+      <workItem from="1663246004491" duration="2316000" />
+      <workItem from="1664374540787" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
