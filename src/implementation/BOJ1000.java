@@ -1,4 +1,4 @@
-package BOJ.Implementation;
+package implementation;
 
 import java.util.Scanner;
 
