@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +163,8 @@
       <workItem from="1664374540787" duration="1754000" />
       <workItem from="1664850110194" duration="2236000" />
       <workItem from="1665573437862" duration="4222000" />
-      <workItem from="1665624716210" duration="24692000" />
+      <workItem from="1665624716210" duration="24779000" />
+      <workItem from="1665672686005" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
