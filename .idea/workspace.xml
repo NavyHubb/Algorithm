@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ5622.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ1712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ2292.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +71,9 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ15596">
-    <configuration name="BOJ1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.BOJ1546" />
+  <component name="RunManager" selected="Application.BOJ2292">
+    <configuration name="BOJ1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.BOJ1712" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ15596" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementation.BOJ15596" />
+    <configuration name="BOJ2292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.BOJ2292" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2908" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.BOJ3052" />
+    <configuration name="BOJ2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2941" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,21 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.BOJ4344" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementation.BOJ8958" />
+    <configuration name="BOJ5622" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ5622" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ15596" />
-        <item itemvalue="Application.BOJ4344" />
-        <item itemvalue="Application.BOJ8958" />
-        <item itemvalue="Application.BOJ1546" />
-        <item itemvalue="Application.BOJ3052" />
+        <item itemvalue="Application.BOJ2292" />
+        <item itemvalue="Application.BOJ1712" />
+        <item itemvalue="Application.BOJ2941" />
+        <item itemvalue="Application.BOJ5622" />
+        <item itemvalue="Application.BOJ2908" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +173,17 @@
       <workItem from="1664850110194" duration="2236000" />
       <workItem from="1665573437862" duration="4222000" />
       <workItem from="1665624716210" duration="24779000" />
-      <workItem from="1665672686005" duration="304000" />
+      <workItem from="1665672686005" duration="368000" />
+      <workItem from="1665673057752" duration="76000" />
+      <workItem from="1665710449757" duration="926000" />
+      <workItem from="1665711397630" duration="5468000" />
+      <workItem from="1665717979420" duration="6366000" />
+      <workItem from="1665735430536" duration="4777000" />
+      <workItem from="1665797367576" duration="3709000" />
+      <workItem from="1665801631893" duration="5263000" />
+      <workItem from="1665811048122" duration="3858000" />
+      <workItem from="1665817544893" duration="19000" />
+      <workItem from="1665817566813" duration="5237000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
