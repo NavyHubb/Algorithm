@@ -1,4 +1,4 @@
-package implementation;
+package string;
 
 import java.io.IOException;
 import java.util.Scanner;
