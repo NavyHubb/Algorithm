@@ -2,36 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ2798.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ10699.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2787.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ10872.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ11382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ1193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ2420.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ2869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ10814.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ10989.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ11650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ11651.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ1181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ1427.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ2108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ25305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ2751.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/BOJ1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ2231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ7568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2754.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ5597.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ10250.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ10757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ2587.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ2775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/array/BOJ10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/array/BOJ2563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/array/BOJ2566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/array/BOJ2738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ11653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ2581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ4948.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/BOJ9020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/primalityTest/PrimalityTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/recursion/BOJ10870.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/recursion/BOJ24060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/recursion/BOJ2447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/recursion/BOJ25501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ18870.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ10809.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ1152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ11654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ11720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ1316.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ2908.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ2941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/BOJ5622.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bruteForce/BOJ2798.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bruteForce/BOJ2798.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementation/BOJ2787.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/BOJ10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/recursion/BOJ10872.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +49,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/sorting/BOJ18870.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2EAecyER1aJlvkUrszfDJwTLCV5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -90,61 +93,9 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ2798">
-    <configuration name="BOJ11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BOJ11650" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ11651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BOJ11651" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BOJ1181" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BOJ1427" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteForce.BOJ2798" />
+  <component name="RunManager" selected="Application.BOJ1018">
+    <configuration name="BOJ1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteForce.BOJ1018" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -156,13 +107,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ10870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.recursion.BOJ10870" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.recursion.BOJ2447" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2743" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2754" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2754" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ2798" />
-        <item itemvalue="Application.BOJ1181" />
-        <item itemvalue="Application.BOJ11651" />
-        <item itemvalue="Application.BOJ11650" />
-        <item itemvalue="Application.BOJ1427" />
+        <item itemvalue="Application.BOJ1018" />
+        <item itemvalue="Application.BOJ2447" />
+        <item itemvalue="Application.BOJ10870" />
+        <item itemvalue="Application.BOJ2754" />
+        <item itemvalue="Application.BOJ2743" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +208,15 @@
       <workItem from="1665817566813" duration="5237000" />
       <workItem from="1665972176252" duration="6099000" />
       <workItem from="1665984612317" duration="29886000" />
-      <workItem from="1666078972465" duration="10737000" />
+      <workItem from="1666078972465" duration="10758000" />
+      <workItem from="1666144146376" duration="3602000" />
+      <workItem from="1666161014933" duration="36642000" />
+      <workItem from="1666409385656" duration="6436000" />
+      <workItem from="1666426227323" duration="3899000" />
+      <workItem from="1666573074785" duration="40076000" />
+      <workItem from="1666882470758" duration="1070000" />
+      <workItem from="1666918320307" duration="88000" />
+      <workItem from="1666921722493" duration="13222000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
@@ -236,6 +247,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/primalityTest/BOJ9020.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="java.io.BufferedReader" memberName="cb" />
