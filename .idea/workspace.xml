@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/recursion/BOJ11729.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/D2/SWEA2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest/kakaoCodeFestival2018/BOJ15953.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/deque/BOJ10866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ10845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ10799.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ1406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ17413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ9093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ11052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ11726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ11727.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ16194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ9095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ1934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ2609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/BOJ21921.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,25 +60,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "/Users/Seongjae/Desktop/Java/Algorithm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Seongjae/Desktop/Java/Algorithm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -66,13 +87,13 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ11729">
-    <configuration name="BOJ1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteForce.BOJ1018" />
+  <component name="RunManager" selected="Application.BOJ21921">
+    <configuration name="BOJ11052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ11052" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bruteForce.*" />
+          <option name="PATTERN" value="dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ10870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.recursion.BOJ10870" />
+    <configuration name="BOJ11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ11726" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.recursion.*" />
+          <option name="PATTERN" value="dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.recursion.BOJ11729" />
+    <configuration name="BOJ11727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ11727" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.recursion.*" />
+          <option name="PATTERN" value="dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteForce.BOJ1436" />
+    <configuration name="BOJ16194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ16194" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bruteForce.*" />
+          <option name="PATTERN" value="dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.recursion.BOJ2447" />
+    <configuration name="BOJ21921" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.BOJ21921" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.recursion.*" />
+          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ11729" />
-        <item itemvalue="Application.BOJ1436" />
-        <item itemvalue="Application.BOJ1018" />
-        <item itemvalue="Application.BOJ2447" />
-        <item itemvalue="Application.BOJ10870" />
+        <item itemvalue="Application.BOJ21921" />
+        <item itemvalue="Application.BOJ16194" />
+        <item itemvalue="Application.BOJ11052" />
+        <item itemvalue="Application.BOJ11727" />
+        <item itemvalue="Application.BOJ11726" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +211,14 @@
       <workItem from="1666882470758" duration="1070000" />
       <workItem from="1666918320307" duration="88000" />
       <workItem from="1666921722493" duration="13222000" />
-      <workItem from="1667028723265" duration="5567000" />
+      <workItem from="1667028723265" duration="10731000" />
+      <workItem from="1667188270837" duration="7196000" />
+      <workItem from="1667386929436" duration="2212000" />
+      <workItem from="1667436416879" duration="3349000" />
+      <workItem from="1667445754046" duration="7646000" />
+      <workItem from="1667526401367" duration="13941000" />
+      <workItem from="1667609106989" duration="11102000" />
+      <workItem from="1667811259546" duration="33769000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
