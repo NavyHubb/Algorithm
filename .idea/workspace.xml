@@ -5,102 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ10819.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ10971.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15649.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15651.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15655.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15656.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15657.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15663.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15664.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15665.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ15666.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ1759.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ2529.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/DFS/BOJ6603.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/BOJ10816.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/BOJ920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ10972.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ10973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ10974.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ12101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ14500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1476.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ14889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ1748.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ2309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ3085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/BOJ6064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/PRO86491.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/bitMask/BOJ11723.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/bitMask/BOJ1182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/bitMask/BOJ14391.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ10815.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ10816.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ1269.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ14425.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ1620.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/BOJ1764.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/PRO1845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/PRO42576.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/PRO42577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/PRO42578.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/hash/PRO42579.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ11866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ15828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ1966.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/BOJ2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/PRO42583.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/queue/PRO42587.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ10773.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ1935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/BOJ4949.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateStructure/stack/PRO12906.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ10844.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ11053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ11057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ14002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ14501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ15590.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ15988.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1699.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ17404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1912.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ1932.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ9465.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BFS/BOJ12851.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BFS/BOJ1697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BOJ10026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BOJ11724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BOJ1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BOJ13023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ5430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ1676.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ2004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ1085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ2477.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ3009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ3053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/geometry/BOJ4153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prefixSum/BOJ11659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/PRO42746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/PRO42748.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/BOJ11478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/BOJ1991.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/BOJ7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/BOJ9375.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/BOJ5525.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contest/kakaoCodeFestival2018/BOJ15953.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,32 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/Seongjae/Desktop/Java/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Seongjae/Desktop/Java/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -169,39 +77,13 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ10026">
+  <component name="RunManager" selected="Application.BOJ9375">
     <configuration name="BOJ10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="graph.BOJ10026" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ12851" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.BFS.BOJ12851" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1991" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.BOJ1991" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,20 +104,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex" />
+    <configuration name="BOJ5525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.BOJ5525" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ7569" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.BOJ7569" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.BOJ9375" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ9375" />
+        <item itemvalue="Application.BOJ7569" />
+        <item itemvalue="Application.BOJ5525" />
         <item itemvalue="Application.BOJ10026" />
         <item itemvalue="Application.BOJ5430" />
-        <item itemvalue="Application.Ex" />
-        <item itemvalue="Application.BOJ1991" />
-        <item itemvalue="Application.BOJ12851" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +245,10 @@
       <workItem from="1677036221226" duration="622000" />
       <workItem from="1677039558103" duration="635000" />
       <workItem from="1678276520608" duration="453000" />
-      <workItem from="1682828599047" duration="8273000" />
+      <workItem from="1682828599047" duration="10531000" />
+      <workItem from="1682898484648" duration="4634000" />
+      <workItem from="1682926877293" duration="3227000" />
+      <workItem from="1682947493183" duration="1533000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
@@ -383,11 +300,6 @@
           <url>file://$PROJECT_DIR$/src/tree/BOJ1991.java</url>
           <line>44</line>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/graph/BOJ10026.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
