@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/BOJ2110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/BOJ2407.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/BOJ1072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/BFS/BOJ16953.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/bellmanFord/BOJ1865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/dijkstra/BOJ1504.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,48 +79,9 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ2110">
-    <configuration name="BOJ1043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.BOJ1043" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1916 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.dijkstra.BOJ1916" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.dijkstra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.dijkstra.BOJ1916" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.dijkstra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ2110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.BOJ2110" />
+  <component name="RunManager" selected="Application.BOJ16953">
+    <configuration name="BOJ1072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.BOJ1072" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +93,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.BOJ2407" />
+    <configuration name="BOJ1504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.dijkstra.BOJ1504" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="graph.dijkstra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ16953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.BFS.BOJ16953" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.bellmanFord.BOJ1865" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.bellmanFord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ2096" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ2110" />
-        <item itemvalue="Application.BOJ2407" />
-        <item itemvalue="Application.BOJ1043" />
-        <item itemvalue="Application.BOJ1916" />
-        <item itemvalue="Application.BOJ1916 (2)" />
+        <item itemvalue="Application.BOJ16953" />
+        <item itemvalue="Application.BOJ1865" />
+        <item itemvalue="Application.BOJ1504" />
+        <item itemvalue="Application.BOJ2096" />
+        <item itemvalue="Application.BOJ1072" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +259,12 @@
       <workItem from="1683120488017" duration="18514000" />
       <workItem from="1683250492136" duration="7644000" />
       <workItem from="1683460976598" duration="6620000" />
-      <workItem from="1683641916814" duration="2637000" />
+      <workItem from="1683641916814" duration="8210000" />
+      <workItem from="1683958374046" duration="1925000" />
+      <workItem from="1683968685891" duration="5729000" />
+      <workItem from="1684111845571" duration="1000" />
+      <workItem from="1684229572071" duration="9413000" />
+      <workItem from="1684327915363" duration="1817000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
