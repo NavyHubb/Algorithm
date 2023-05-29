@@ -14,16 +14,19 @@ public class BOJ9663 {
 
         board = new int[N];
         cnt = 0;
+        nQueen(0);
 
-        System.out.println(nQueen(0));
+        System.out.println(cnt);
     }
 
-    static int nQueen(int row) {
+    static void nQueen(int row) {
+        // 가능한 경우 찾았을 때
         if (row == N) {
             cnt++;
-            return cnt;
+            return;
         }
 
+        // 첫 행의 1~N 번째에 놓는 경우의 수를 모두 탐색
         for (int i = 0; i < N; i++) {
             board[row] = i;
 
@@ -31,13 +34,11 @@ public class BOJ9663 {
                 nQueen(row+1);
             }
         }
-
-        return cnt;
     }
 
     static boolean isPromising(int row) {
         for (int i = 0; i < row; i++) {
-            if (board[row] == board[i] || row - i == Math.abs(board[row] - board[i])) {
+            if (board[i] == board[row] || row - i == Math.abs(board[i] - board[row])) {
                 return false;
             }
         }

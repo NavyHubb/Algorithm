@@ -1,12 +1,8 @@
-package graph;
+package graph.DFS;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
-import org.w3c.dom.Node;
 
 public class BOJ1167 {
     static ArrayList<Node>[] list;
