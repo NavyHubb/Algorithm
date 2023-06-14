@@ -44,4 +44,5 @@ public class BOJ9663 {
         }
         return true;
     }
+
 }
