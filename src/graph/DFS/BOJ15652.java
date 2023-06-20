@@ -1,11 +1,11 @@
-package backTracking.DFS;
+package graph.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ15651 {
+public class BOJ15652 {
     public static int[] arr;
     public static int N, M;
     public static StringBuilder sb = new StringBuilder();
@@ -19,13 +19,12 @@ public class BOJ15651 {
 
         arr = new int[M];
 
-        dfs(0);
+        dfs(1, 0);
 
         System.out.println(sb);
     }
 
-    public static void dfs(int depth) {
-        // 깊이가 M에 도달했을 경우 출력
+    public static void dfs(int at, int depth) {
         if (depth == M) {
             for (int i = 0; i < M; i++) {
                 sb.append(arr[i]).append(' ');
@@ -34,9 +33,9 @@ public class BOJ15651 {
             return;
         }
 
-        for (int i = 1; i <= N; i++) {
+        for (int i = at; i <= N; i++) {
             arr[depth] = i;
-            dfs(depth + 1);
+            dfs(i, depth + 1);
         }
     }
 }

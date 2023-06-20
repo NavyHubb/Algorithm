@@ -1,16 +1,14 @@
-package backTracking.DFS;
+package graph.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.StringTokenizer;
 
-public class BOJ15666 {
+public class BOJ15657 {
     public static int N, M;
-    public static int[] arr;
-    public static Integer[] nums;
+    public static int[] nums, arr;
     public static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
@@ -20,19 +18,13 @@ public class BOJ15666 {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
 
-        nums = new Integer[N];
+        nums = new int[N];
         arr = new int[M];
-
-        HashSet<Integer> set = new HashSet<>();
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
-            int temp = Integer.parseInt(st.nextToken());
-
-            set.add(temp);  // HashSet은 중복된 값을 저장하지 않기 때문에 값을 입력 받는 과정에서 따로 값이 set안에 이미 존재하는지 확인할 필요가 없다
+            nums[i] = Integer.parseInt(st.nextToken());
         }
-
-        nums = set.toArray(new Integer[0]);
 
         Arrays.sort(nums);
 
@@ -50,7 +42,7 @@ public class BOJ15666 {
             return;
         }
 
-        for (int i = at; i < nums.length; i++) {
+        for (int i = at; i < N; i++) {
             arr[depth] = nums[i];
             dfs(i, depth + 1);
         }

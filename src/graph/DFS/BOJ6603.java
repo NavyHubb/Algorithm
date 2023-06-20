@@ -1,4 +1,4 @@
-package backTracking.DFS;
+package graph.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

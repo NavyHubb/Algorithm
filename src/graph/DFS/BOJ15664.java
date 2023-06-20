@@ -1,4 +1,4 @@
-package backTracking.DFS;
+package graph.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,9 +6,11 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BOJ15656 {
+public class BOJ15664 {
     public static int N, M;
-    public static int[] nums, arr;
+    public static Integer[] nums;
+    public static int[] arr;
+    public static boolean[] visit;
     public static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
@@ -18,8 +20,8 @@ public class BOJ15656 {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
 
-        nums = new int[N];
         arr = new int[M];
+        visit = new boolean[N];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
@@ -28,12 +30,12 @@ public class BOJ15656 {
 
         Arrays.sort(nums);
 
-        dfs(0);
+        dfs(0, 0);
 
         System.out.println(sb);
     }
 
-    public static void dfs(int depth) {
+    public static void dfs(int at, int depth) {
         if (depth == M) {
             for (int i = 0; i < M; i++) {
                 sb.append(arr[i]).append(' ');
@@ -42,9 +44,21 @@ public class BOJ15656 {
             return;
         }
 
-        for (int i = 0; i < N; i++) {
-            arr[depth] = nums[i];
-            dfs(depth + 1);
+        int num = 0;
+        for (int i = at; i < N; i++) {
+            if (!visit[i]) {
+                if (num == nums[i]) {
+                    continue;
+                }
+
+                visit[i] = true;
+                arr[depth] = nums[i];
+                dfs(i + 1, depth + 1);
+
+                visit[i] = false;
+
+                num = nums[i];
+            }
         }
     }
 }
