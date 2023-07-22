@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/BOJ1072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/BOJ2096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/BFS/BOJ16953.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/bellmanFord/BOJ1865.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/dijkstra/BOJ1504.java" afterDir="false" />
+    <list default="true" id="ba12eb81-ff21-46b8-8bc2-e773a8ac7b6a" name="Changes" comment="230620">
+      <change afterPath="$PROJECT_DIR$/src/graph/BFS/BOJ13549.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/BOJ2669.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/BOJ2559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/BOJ2628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -79,35 +80,9 @@
       <recent name="implementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ16953">
-    <configuration name="BOJ1072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.BOJ1072" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.dijkstra.BOJ1504" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.dijkstra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ16953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.BFS.BOJ16953" />
+  <component name="RunManager" selected="Application.BOJ13549">
+    <configuration name="BOJ13549" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.BFS.BOJ13549" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.bellmanFord.BOJ1865" />
+    <configuration name="BOJ2559" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.BOJ2559" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.bellmanFord.*" />
+          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +107,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.BOJ2096" />
+    <configuration name="BOJ2628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.BOJ2628" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamicProgramming.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2669" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.BOJ2669" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prace" />
+      <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ16953" />
-        <item itemvalue="Application.BOJ1865" />
-        <item itemvalue="Application.BOJ1504" />
-        <item itemvalue="Application.BOJ2096" />
-        <item itemvalue="Application.BOJ1072" />
+        <item itemvalue="Application.BOJ13549" />
+        <item itemvalue="Application.BOJ2559" />
+        <item itemvalue="Application.BOJ2628" />
+        <item itemvalue="Application.BOJ2669" />
+        <item itemvalue="Application.Prace" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +259,42 @@
       <workItem from="1683968685891" duration="5729000" />
       <workItem from="1684111845571" duration="1000" />
       <workItem from="1684229572071" duration="9413000" />
-      <workItem from="1684327915363" duration="1817000" />
+      <workItem from="1684327915363" duration="2472000" />
+      <workItem from="1684416106890" duration="3331000" />
+      <workItem from="1684716265221" duration="7724000" />
+      <workItem from="1684802636893" duration="5885000" />
+      <workItem from="1684851504002" duration="1536000" />
+      <workItem from="1684891339521" duration="4097000" />
+      <workItem from="1684973524346" duration="6630000" />
+      <workItem from="1685061403540" duration="5417000" />
+      <workItem from="1685321454138" duration="8644000" />
+      <workItem from="1685407040993" duration="4619000" />
+      <workItem from="1685446659779" duration="4907000" />
+      <workItem from="1685493474045" duration="3501000" />
+      <workItem from="1685579866773" duration="7463000" />
+      <workItem from="1685771009060" duration="719000" />
+      <workItem from="1685793694701" duration="10655000" />
+      <workItem from="1686016975744" duration="22907000" />
+      <workItem from="1686456977205" duration="3513000" />
+      <workItem from="1686531961511" duration="8448000" />
+      <workItem from="1686617784328" duration="8188000" />
+      <workItem from="1686705162665" duration="5445000" />
+      <workItem from="1686789978451" duration="3579000" />
+      <workItem from="1686833992698" duration="4000" />
+      <workItem from="1686875787687" duration="5112000" />
+      <workItem from="1687135714775" duration="6860000" />
+      <workItem from="1687219910666" duration="6693000" />
+      <workItem from="1687307872225" duration="5405000" />
+      <workItem from="1687693457111" duration="1318000" />
+      <workItem from="1687873630768" duration="656000" />
+      <workItem from="1688011768645" duration="11167000" />
+      <workItem from="1688396040788" duration="9716000" />
+      <workItem from="1688568010930" duration="2356000" />
+      <workItem from="1688651109991" duration="1702000" />
+      <workItem from="1688946582617" duration="2308000" />
+      <workItem from="1689075499589" duration="2265000" />
+      <workItem from="1689990153339" duration="835000" />
+      <workItem from="1690022783631" duration="1183000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1662043819140</created>
@@ -273,7 +303,70 @@
       <option name="project" value="LOCAL" />
       <updated>1662043819140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="230517">
+      <created>1684330572149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684330572149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="230518">
+      <created>1684421012393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684421012393</updated>
+    </task>
+    <task id="LOCAL-00004" summary="230529">
+      <created>1685337311469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685337311469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="230530">
+      <created>1685452689311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685452689311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="230601">
+      <created>1685585643841</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685585643841</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2306011">
+      <created>1686460575992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686460575992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2306014">
+      <created>1686722720094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686722720094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="23060119">
+      <created>1687219967174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687219967174</updated>
+    </task>
+    <task id="LOCAL-00010" summary="230620">
+      <created>1687307968458</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687307968458</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +385,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="230517" />
+    <MESSAGE value="230518" />
+    <MESSAGE value="230529" />
+    <MESSAGE value="230530" />
+    <MESSAGE value="230601" />
+    <MESSAGE value="2306011" />
+    <MESSAGE value="2306014" />
+    <MESSAGE value="23060119" />
+    <MESSAGE value="230620" />
+    <option name="LAST_COMMIT_MESSAGE" value="230620" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,14 +410,14 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/backTracking/DFS/BOJ2529.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tree/BOJ1991.java</url>
           <line>44</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/dijkstra/BOJ1446.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
